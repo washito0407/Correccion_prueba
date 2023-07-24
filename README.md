@@ -67,3 +67,11 @@ Se presenta el deber y correción de la prueba junto a la compañera Melani Barr
     ![image](https://github.com/washito0407/Correccion_prueba/assets/117743091/8fbab8c0-d609-4ea2-9aba-35021b3fed5d)
 
 
+7. Usuarios.dat en el cual se guardan los usaurios junto a sus contraseñas para la bienvenida
+
+
+     ![image](https://github.com/washito0407/Correccion_prueba/assets/117743091/d3a4ada9-6e67-4e39-9efc-a4152ebfb403)
+
+
+
+
